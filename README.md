@@ -1,3 +1,9 @@
+# Portfolio
+
+Create example portfolio is show the skills, projects and contact
+
+![portfolio_image](https://github.com/spark353/Portfolio/assets/166623238/3ec6b99a-8a3d-4567-89d3-71d30e747159)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
